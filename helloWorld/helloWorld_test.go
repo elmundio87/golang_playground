@@ -1,4 +1,4 @@
-package helloworld
+package helloWorld
 
 import (
 	"github.com/stretchr/testify/assert"
